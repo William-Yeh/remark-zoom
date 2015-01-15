@@ -49,19 +49,12 @@ When these keys are pressed, all texts will be zoomed immediately. *Images*, how
 
 ## Online demo
 
-To be placed at GitHub Pages.
-
-  - Zoom demo: http://xxx/demo.html
-
-  - Remark intro (copied from [remarkjs.com](http://remarkjs.com)): http://xxx/remark-intro.html
-
-
+<a href="http://william-yeh.github.io/remark-zoom/">remark-zoom demo</a>, hosted at GitHub Pages.
 
 
 ## To view the slides locally
 
 1. Change working directory to the slide directory.
-
 
 2. Start a local web server, e.g.:
 

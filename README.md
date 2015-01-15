@@ -37,14 +37,13 @@ Feel free to link to the online version of `remark-zoom.js`, hosted at GitHub:
 
 The **remark-zoom** accepts the following keystrokes while viewing slides:
 
+  - `+` (plus): zoom in.
 
-- `+` (plus): zoom in.
+  - `-` (minus): zoom out.
 
-- `-` (minus): zoom out.
+  - `0` (zero): reset to normal size.
 
-- `0` (zero): reset to normal size.
-
-When these keys are pressed, all texts will be zoomed immediately. *Images*, however, will be zoomed only when *mouse over*.
+When these keys are pressed, all texts (except `h1` `h2` `h3`) will be zoomed immediately. *Images*, however, will be zoomed only when *mouse over*.
 
 
 ## Online demo

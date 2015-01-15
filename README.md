@@ -27,12 +27,6 @@ Load the `remark-zoom.js` script file *after* `remark-latest.min.js`.  For examp
 ```
 
 
-Feel free to link to the online version of `remark-zoom.js`, hosted at GitHub:
-
-```html
-<script src="https://raw.githubusercontent.com/William-Yeh/remark-zoom/master/remark-zoom.js" type="text/javascript"></script>
-```
-
 ## Keystrokes
 
 The **remark-zoom** accepts the following keystrokes while viewing slides:

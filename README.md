@@ -79,8 +79,11 @@ OK:
 
   - Chrome (on Mac): 37.0.2062.124
 
+  - Chrome (on Windows): 39.0
+
   - Firefox (on Mac): 34.0
 
+  - IE (on Windows): 11.0.9600
 
 Zoom for image doesn't work:
 
